@@ -48,11 +48,9 @@ export class MemberDetailsComponent {
 
   onDeleteClick(event: any, id: number) {
     if (confirm("Are you sure to you want to delete?")) {
-      console.log(id);
       this.memberService.deleteMember(id).subscribe({
         next: (response) => {
           if (response) {
-            console.log(response.body);
             alert("Data seleted successfully.")
           }
         },
@@ -60,7 +58,6 @@ export class MemberDetailsComponent {
           console.error(e);
         },
         complete: () => {
-          console.info('complete');
           this.getMemberInfo();
           this.router.navigate(['ViewMember']);
         }

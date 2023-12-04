@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{135A31DD-3599-4216-9ACE-C2472DBA0034}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Member.Infrastructure/Repositories/MemberRepository.cs">
+    <Files>
+      <File FileName="Services/Member.Domain/Entities/MemberInfo.cs" Line="1" Column="1" />
+      <File FileName="Services/Member.Infrastructure/Repositories/MemberRepository.cs" Line="93" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContactApp" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="Member.API" expanded="True" />
+              <Node name="Member.Application" expanded="True">
+                <Node name="Contracts" expanded="True" />
+                <Node name="Features" expanded="True">
+                  <Node name="MembersInfo" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Member.Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Member.Infrastructure" expanded="True">
+                <Node name="Repositories" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Services.Member.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

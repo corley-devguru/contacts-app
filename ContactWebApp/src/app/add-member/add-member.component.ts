@@ -24,7 +24,6 @@ export class AddMemberComponent implements OnInit {
   ngOnInit() {
 
     this.id = this.editId;
-    console.log(this.id);
     if (this.id) {
       this.headerMsg = "Update Contact";
       this.getMemberInfoById(this.id);
@@ -45,7 +44,6 @@ export class AddMemberComponent implements OnInit {
     this.memberService.getMemberById(id).subscribe(
       {
         next: (response) => {
-          debugger;
           this.addMemberForm.patchValue({
             firstName: response.body.firstName, lastName:response.body.lastName,
             email: response.body.email, id: response.body.id
@@ -53,7 +51,6 @@ export class AddMemberComponent implements OnInit {
         },
         error: (e) => console.error(e),
         complete: () => {
-          console.log('completed');
         }
       }
     );
