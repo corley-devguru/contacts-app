@@ -1,0 +1,54 @@
+<section *ngIf="!edited">
+    <button type="button" class="btn btn-success my-2" (click)="showAddEditMember()">New</button>
+
+    <hr />
+
+  </section>
+<div class="card card-primary">
+  <div *ngIf="edited" >
+    <app-add-member (displayMessage)="showMessage($event)"
+     (backClick)="backClick($event)" [editId]="editId"></app-add-member>
+  </div>
+ <div *ngIf="!edited">
+    <div class="card-header">
+
+      <h5>Contacts</h5>
+    </div>
+
+    <div class="card-body p-0">
+      <table class="table table-bordered mt-3 mb-0">
+        <thead>
+          <tr>
+            <th> Id </th>
+            <th> FirstName </th>
+            <th> LastName </th>
+            <th> Email </th>
+            <th> Edit </th>
+            <th> Delete </th>
+          </tr>
+        </thead>
+        <tbody class="table-striped" *ngFor="let member of memberInfo; let i = index">
+          <tr>
+            <td>{{member.id}}</td>
+            <td>{{member.firstName}}</td>
+            <td>{{member.lastName}}</td>
+            <td>{{member.email}}</td>
+            <td>
+                <a class="btn btn-primary" (click)="onEditClick(member.id)" >
+                    Edit
+                </a>
+              <!-- <button class="btn btn-info" [routerLink]="['Edit',member.id]" data-toggle="modal"
+                data-target="#editModal">Edit</button> -->
+            </td>
+
+            <td>
+              <button class="btn btn-danger" ng-really-message="Are you sure?" (click)="onDeleteClick($event, member.id)" data-toggle="modal"
+                data-target="#editModal">Delete</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+  </div>

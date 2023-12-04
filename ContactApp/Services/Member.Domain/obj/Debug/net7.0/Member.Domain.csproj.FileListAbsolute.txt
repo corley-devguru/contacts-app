@@ -10,3 +10,15 @@
 /Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/refint/Member.Domain.dll
 /Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.pdb
 /Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/ref/Member.Domain.dll
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/bin/Debug/net7.0/Member.Domain.deps.json
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/bin/Debug/net7.0/Member.Domain.dll
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/bin/Debug/net7.0/Member.Domain.pdb
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.csproj.AssemblyReference.cache
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.AssemblyInfoInputs.cache
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.AssemblyInfo.cs
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.csproj.CoreCompileInputs.cache
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.dll
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/obj/Debug/net7.0/refint/Member.Domain.dll
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.pdb
+/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/obj/Debug/net7.0/ref/Member.Domain.dll
