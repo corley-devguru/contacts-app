@@ -1,0 +1,12 @@
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/bin/Debug/net7.0/Member.Domain.deps.json
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/bin/Debug/net7.0/Member.Domain.dll
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/bin/Debug/net7.0/Member.Domain.pdb
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.csproj.AssemblyReference.cache
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.AssemblyInfoInputs.cache
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.AssemblyInfo.cs
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.csproj.CoreCompileInputs.cache
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.dll
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/refint/Member.Domain.dll
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/Member.Domain.pdb
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/Debug/net7.0/ref/Member.Domain.dll

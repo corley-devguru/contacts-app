@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/Member.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Application/Member.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Application/Member.Application.csproj",
+        "projectName": "Member.Application",
+        "projectPath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Application/Member.Application.csproj",
+        "packagesPath": "/Users/oluwaferanmimaven/.nuget/packages/",
+        "outputPath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oluwaferanmimaven/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/Member.Domain.csproj": {
+                "projectPath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/Member.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.8.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/Member.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/Member.Domain.csproj",
+        "projectName": "Member.Domain",
+        "projectPath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/Member.Domain.csproj",
+        "packagesPath": "/Users/oluwaferanmimaven/.nuget/packages/",
+        "outputPath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oluwaferanmimaven/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/Member.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/Member.Infrastructure.csproj",
+        "projectName": "Member.Infrastructure",
+        "projectPath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/Member.Infrastructure.csproj",
+        "packagesPath": "/Users/oluwaferanmimaven/.nuget/packages/",
+        "outputPath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oluwaferanmimaven/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Application/Member.Application.csproj": {
+                "projectPath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Application/Member.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

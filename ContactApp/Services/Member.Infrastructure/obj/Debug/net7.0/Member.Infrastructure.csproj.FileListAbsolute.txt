@@ -1,0 +1,17 @@
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/bin/Debug/net7.0/Member.Infrastructure.deps.json
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/bin/Debug/net7.0/Member.Infrastructure.dll
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/bin/Debug/net7.0/Member.Infrastructure.pdb
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/bin/Debug/net7.0/Member.Application.dll
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/bin/Debug/net7.0/Member.Domain.dll
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/bin/Debug/net7.0/Member.Application.pdb
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/bin/Debug/net7.0/Member.Domain.pdb
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.csproj.AssemblyReference.cache
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.AssemblyInfoInputs.cache
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.AssemblyInfo.cs
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.csproj.CopyComplete
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.dll
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/obj/Debug/net7.0/refint/Member.Infrastructure.dll
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/obj/Debug/net7.0/Member.Infrastructure.pdb
+/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/obj/Debug/net7.0/ref/Member.Infrastructure.dll
