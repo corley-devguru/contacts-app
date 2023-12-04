@@ -91,14 +91,5 @@ namespace Member.Infrastructure.Repositories
             saveData(memberInfos);
             return await resultsTask;
         }
-
-        private void LoadData()
-        {
-            if (File.Exists(filePath))
-            {
-                string json = File.ReadAllText(filePath);
-                memberInfos.AddRange(JsonSerializer.Deserialize<List<MemberInfo>>(json));
-            }
-        }
     }
 }

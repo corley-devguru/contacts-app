@@ -1123,11 +1123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.API/Member.API.csproj",
+      "projectUniqueName": "/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.API/Member.API.csproj",
       "projectName": "Member.API",
-      "projectPath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.API/Member.API.csproj",
+      "projectPath": "/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.API/Member.API.csproj",
       "packagesPath": "/Users/oluwaferanmimaven/.nuget/packages/",
-      "outputPath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.API/obj/",
+      "outputPath": "/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/oluwaferanmimaven/.nuget/NuGet/NuGet.Config"
@@ -1143,8 +1143,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/Member.Infrastructure.csproj": {
-              "projectPath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Infrastructure/Member.Infrastructure.csproj"
+            "/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Infrastructure/Member.Infrastructure.csproj": {
+              "projectPath": "/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Infrastructure/Member.Infrastructure.csproj"
             }
           }
         }

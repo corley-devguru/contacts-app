@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p1T9e7Ixe796S1uQV7l8fz2HytELZDZ+PJwNIaM1NFfCKm8oZGGaCijyUzanvAzOesQWoGjFzQXCXIDFU0BuEQ==",
+  "dgSpecHash": "67QMhclDjcGYqVMi7ndxlOHQtr/20xsOu2uMkK+ArnWTra9tx6rJ6/lL+uqZAI1nPpFAW7xQax2z5EHvmMIsMg==",
   "success": true,
-  "projectFilePath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.API/Member.API.csproj",
+  "projectFilePath": "/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.API/Member.API.csproj",
   "expectedPackageFiles": [
     "/Users/oluwaferanmimaven/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/oluwaferanmimaven/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

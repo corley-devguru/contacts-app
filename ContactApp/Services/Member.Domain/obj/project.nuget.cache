@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uonNtS8+Rvi8GdzgSmfmbBS7ZKebmAqwG46wp1VwNI3os/5vGFlb2THCIfJwsGf9HgVC+i8E5ZTrj2hdvElfaA==",
+  "dgSpecHash": "AfYORHtxYlo5i3Pp84ji+TBHZzc3x9MOwQGyUgnSkvpQvCk5ISdbwv4kr5kzLmZXSt6sgL84FNjeXewS5SG+PQ==",
   "success": true,
-  "projectFilePath": "/Users/oluwaferanmimaven/Downloads/CMA-main/ContactApp/Services/Member.Domain/Member.Domain.csproj",
+  "projectFilePath": "/Users/oluwaferanmimaven/Documents/contacts-app/ContactApp/Services/Member.Domain/Member.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
