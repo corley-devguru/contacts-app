@@ -51,7 +51,7 @@ Below are the major frameworks/libraries used in project.
 ### Backend Application
 1. Clone the repository
    ```sh
-   git clone https://github.com/sheeraz123/CMA.git
+   git clone https://github.com/corley-devguru/contacts-app.git
    ```
 2. Run the Application **ContactApp** in visual studio 2022(.NET7)
 3. Swagger page will open. you can play with API
